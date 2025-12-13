@@ -132,7 +132,12 @@ I’m a **student** with a strong interest in **Artificial Intelligence, Data St
 </p>
 
 ---
-
+<p align="center">
+  <a href="https://codolio.com/profile/jeyasubha" target="_blank">
+    <img src="assets/profileCard%20(2).png" alt="Coding Profile Card" width="400"/>
+  </a>
+</p>
+---
 ## 📬 Connect With Me
 
 <p align="left">
