@@ -1,158 +1,152 @@
+<!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeyasubha/Jeyasubha/main/banner.png" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/Jeyasubha/Jeyasubha/main/banner.png" alt="Jeyasubha Banner" />
 </p>
 
-<h1 align="center">Jeyasubha G</h1>
-
-<p align="center">
-  <b>Aspiring Data Scientist | DSA • AI • Web Development</b>
-</p>
+<!-- ================= INTRO ================= -->
+<h1 align="center">Hey there 👋, I'm Jeyasubha G</h1>
 
 <p align="center">
-  <i>Building intelligent, scalable, and user-focused solutions through data and code.</i>
+  <strong>Data Science Enthusiast | DSA Learner | AI & Web Dev Explorer</strong>
+</p>
+
+<p align="center">
+  Turning ideas, data, and logic into meaningful software 🚀
 </p>
 
 ---
 
-## 🌿 About Me
+## 👨‍💻 Who Am I?
 
-I’m a **student** with a strong interest in **Artificial Intelligence, Data Structures & Algorithms, and Web Development**. I enjoy transforming ideas and data into practical applications, with a focus on **analytics, machine learning, and scalable systems**.
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif" width="90" align="right"/>
 
-* 🎓 Student exploring AI, DSA, and full‑stack development
-* 🧠 Passionate about data-driven decision making
-* 🛠️ Love building systems that are efficient, clean, and impactful
-* 🌱 Continuously learning and improving
+I’m a **tech-driven student** who enjoys working at the intersection of  
+**Artificial Intelligence, Data Structures, and Full-Stack Development**.
+
+I like:
+- solving problems that actually matter  
+- building systems that scale instead of breaking  
+- learning *why* something works, not just *how*
+
+**Short version:** I enjoy coding things that think 🤖 and apps people use 🌐
 
 ---
 
-## 🧩 Tech Stack
+## ⚡ What I Work With
 
-### 💻 Languages
-
+### 🧑‍💻 Core Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### 🎨 Frontend
-
+### 🎨 Frontend Skills
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Frameworks & Libraries
-
+### ⚙ Backend, AI & Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,pytorch" />
 </p>
 
-### 🗄️ Database
-
+### 🗄 Databases & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,googlecolab" />
 </p>
 
-### 🧰 Tools & Platforms
+---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" width="45" height="45" />
+## 🚀 Things I’ve Built
+
+### 🧠 Smart Campus ID System
+**Tech:** Python · OpenCV · Deep Learning · Flask  
+- Face recognition based attendance system  
+- Centralized backend for student records  
+- Visual dashboard for tracking attendance  
+
+---
+
+### 🧩 AI Mindmap Generator
+**Tech:** Python · NLP · Transformers  
+- Converts paragraphs into structured mindmaps  
+- Extracts key concepts automatically  
+- Helps with faster learning & revision  
+
+---
+
+### ✅ Interactive To-Do Web App
+**Tech:** HTML · CSS · JavaScript  
+- Dynamic task creation & editing  
+- Priority handling + drag & drop  
+- Persistent storage using LocalStorage  
+
+---
+
+## 📊 Progress & Consistency
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyasubha-26&theme=react-dark&hide_border=true" />
 </p>
 
-## 📌 Featured Projects
-
-### 🔹 Smart ID System for Campus Access
-
-**Tech:** Python, OpenCV, Deep Learning, Flask
-
-* Facial recognition–based system for automatic attendance
-* Flask backend for student data and notifications
-* Dashboard for attendance visualization and profile management
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jeyasubha?theme=dark&font=Poppins&ext=heatmap" />
+</p>
 
 ---
 
-### 🔹 Mindmap Generator from Paragraphs
+## 🧊 Commit Visualization
 
-**Tech:** Python, NLP, Transformers
-
-* AI tool that generates mindmaps from textual input
-* Text preprocessing and hierarchical concept extraction
-* Exportable mindmaps for effective studying
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeyasubha-26&theme=tokyonight" />
+</p>
 
 ---
 
-### 🔹 Dynamic To‑Do List Web Application
+## 🏆 Highlights
 
-**Tech:** HTML, CSS, JavaScript
-
-* Create, edit, delete, and organize tasks dynamically
-* Drag‑and‑drop support with priorities and due dates
-* LocalStorage used for persistent task management
-
----
-
-## 🎯 Skill Focus 
-
-* **DSA & Problem Solving** ▓▓▓▓▓▓▓▓░░ 80%
-* **Machine Learning & AI** ▓▓▓▓▓▓▓░░░ 60%
-* **Web Development** ▓▓▓▓▓▓▓▓░░ 75%
-* **Data Analytics** ▓▓▓▓▓▓▓░░░ 60%
+- 💡 Regular problem solver on coding platforms  
+- 🧠 Hands-on AI & ML project experience  
+- 🔧 Comfortable with end-to-end development  
+- 📊 Strong interest in data-driven systems  
 
 ---
 
-## 🏆 Achievement Highlights
-
-* 🧠 Active problem solver on competitive programming platforms
-* 📊 Built multiple AI and web-based projects
-* 🛠️ Hands-on experience with end‑to‑end project development
-
----
-
-## 🔗 Coding Profiles
+## 🧑‍💻 Coding Profiles
 
 <p align="left">
   <a href="https://leetcode.com/u/jeyasubha/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/jeyasubha_g" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/jeyasubha_g" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="45"/>
   </a>
 </p>
 
----
 <p align="center">
   <a href="https://codolio.com/profile/jeyasubha" target="_blank">
-    <img src="codolio-card.png" alt="Coding Profile Card" width="400"/>
+    <img src="codolio-card.png" alt="Codolio Profile" width="420"/>
   </a>
 </p>
 
 ---
-## 📬 Connect With Me
+
+## 🤝 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jeyasubha-ganesan-1972582b2" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:jeyasubhaganesan2006@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Focused on learning today, building for tomorrow.</i>
+  <em>Learning daily. Building consistently. Improving relentlessly.</em>
 </p>
