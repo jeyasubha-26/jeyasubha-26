@@ -98,12 +98,12 @@ I’m a **student** with a strong interest in **Artificial Intelligence, Data St
 
 ---
 
-## 🎯 Skill Focus (Pastel Progress Overview)
+## 🎯 Skill Focus 
 
 * **DSA & Problem Solving** ▓▓▓▓▓▓▓▓░░ 80%
-* **Machine Learning & AI** ▓▓▓▓▓▓▓░░░ 70%
+* **Machine Learning & AI** ▓▓▓▓▓▓▓░░░ 60%
 * **Web Development** ▓▓▓▓▓▓▓▓░░ 75%
-* **Data Analytics** ▓▓▓▓▓▓▓░░░ 70%
+* **Data Analytics** ▓▓▓▓▓▓▓░░░ 60%
 
 ---
 
