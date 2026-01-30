@@ -1,17 +1,6 @@
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeyasubha/Jeyasubha/main/banner.png" alt="Jeyasubha Banner" />
-</p>
-
-<!-- ================= INTRO ================= -->
-<h1 align="center">Hey there 👋, I'm Jeyasubha G</h1>
-
-<p align="center">
-  <strong>Data Science Enthusiast | DSA Learner | AI & Web Dev Explorer</strong>
-</p>
-
-<p align="center">
-  Turning ideas, data, and logic into meaningful software 🚀
+  <img src="img1.png" alt="Jeyasubha Banner" />
 </p>
 
 ---
