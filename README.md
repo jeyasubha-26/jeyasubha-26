@@ -66,8 +66,8 @@ I like:
 
 ---
 
-### 🧩 AI Mindmap Generator
-**Tech:** Python · NLP · Transformers  
+### 🧩 Mind Map Generator (Topic Tree Creator)
+**Tech:** Python · NLP · FastAPI  
 - Converts paragraphs into structured mindmaps  
 - Extracts key concepts automatically  
 - Helps with faster learning & revision  
