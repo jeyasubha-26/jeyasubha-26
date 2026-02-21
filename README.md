@@ -107,7 +107,7 @@ I like:
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/jeyasubha_g" target="_blank">
+  <a href="https://www.codechef.com/users/jeyasubha" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
   </a>
   &nbsp;&nbsp;
